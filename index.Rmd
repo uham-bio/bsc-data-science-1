@@ -21,23 +21,24 @@ Modulverantwortliche: **Dr. Saskia Otto**
 
 ## Vorlesungsfolien
 
-Diese Github Repository enthält nur die Links zu den kursspezifischen und interaktiven HTML-Vorlesungsfolien (alle auf Deutsch), die mit R Markdown und Quarto unter Verwendung von Vorlagen aus dem R Paket [UHHformats](https://github.com/uham-bio/UHHformats) erstellt wurden: 
-
-Diese GitHub Repository enthält die folgenden Kurs-spezifischen HTML-Vorlesungsfolien (alle auf Deutsch), die bald von der aktuellen Kurs-Website abgerufen werden können: [https://datasciencebiology.blogs.uni-hamburg.de](https://datasciencebiology.blogs.uni-hamburg.de/course-portfolio/data-science-2/)
+Diese Github Repository enthält die Links zu den kursspezifischen und interaktiven HTML-Vorlesungsfolien (alle auf Deutsch), die mit R Markdown und Quarto unter Verwendung von Vorlagen aus dem R Paket [UHHformats](https://github.com/uham-bio/UHHformats) erstellt wurden: 
 
 
-- 01 [Einführung in die mathematische Statistik](https://saskiaotto.github.io/uham-bio-data-science-2/01-introduction.html#/title-slide)
-- 02 [Wahrscheinlichkeitstheorie](https://saskiaotto.github.io/uham-bio-data-science-2/02-probability-theory.html#/title-slide)
-- 03 [Wahrscheinlichkeitsverteilungen](https://saskiaotto.github.io/uham-bio-data-science-2/03-probability-distributions.html#/title-slide)
-- 04 [Schätzverfahren oder was ist ein KI?](https://saskiaotto.github.io/uham-bio-data-science-2/04-estimation.html#/title-slide)
-- 05 [Hypothesentest oder was ist eine H0?](https://saskiaotto.github.io/uham-bio-data-science-2/05-hypothesis-testing.html#/title-slide)
-- 06 [Klassische Tests (Teil 1: t-Tests und nicht-parametrische Alternativen)](https://saskiaotto.github.io/uham-bio-data-science-2/06-classical-tests-part1.html#/title-slide)
-- 07 [Klassische Tests (Teil 2: Chi-Quadrat-Tests)](https://saskiaotto.github.io/uham-bio-data-science-2/07-classical-tests-part2.html#/title-slide)
-- 08 [Mehrstichprobentests & Einführung in die Varianzanalyse](https://saskiaotto.github.io/uham-bio-data-science-2/08-1way-anova.html#/title-slide)
-- 09 [Korrelation & Transformation](https://saskiaotto.github.io/uham-bio-data-science-2/09-correlation-transformation.html#/title-slide)
-- 10 [Linear Regression](https://saskiaotto.github.io/uham-bio-data-science-2/10-regression.html#/title-slide)
-- 11 [Grundlagen des experimentellen Designs (Teil 1: Grundgleichung der Versuchsplanung & Designtypen)](https://saskiaotto.github.io/uham-bio-data-science-2/11-basics-exp-design-part1.html#/title-slide)
-- 12 [Grundlagen des experimentellen Designs (Teil 2: Kriterien der Versuchsplanung & Poweranalyse )](https://saskiaotto.github.io/uham-bio-data-science-2/12-basics-exp-design-part2.html#/title-slide)
+- 00 [Kurseinführung](https://saskiaotto.github.io/uham-bio-data-science-1/00-intro-program.html#/title-slide)
+- 01 [Einführung in Daten und Datenmanagement](https://saskiaotto.github.io/uham-bio-data-science-1/01-data-management.html#/title-slide)
+- 02 [Grundlagen der deskriptiven Statistik](https://saskiaotto.github.io/uham-bio-data-science-1/02-descriptive-stats.html#/title-slide)
+- 03 [Biologische Prozesse mathematisch beschreiben](https://saskiaotto.github.io/uham-bio-data-science-1/03-biological-processes.html#/title-slide)
+- 04 [Einführung in die (R) Programmierung](https://saskiaotto.github.io/uham-bio-data-science-1/04-intro-programming-and-r.html#/title-slide)
+- 05 [Grundlagen in R: Variablen und Vektoren](https://saskiaotto.github.io/uham-bio-data-science-1/05-r-basics-variables-vectors.html#/title-slide)
+- 06 [Grundlagen in R: Komplexere Objekte](https://saskiaotto.github.io/uham-bio-data-science-1/06-r-basics-complex-objects.html#/title-slide)
+- 07 ....
+
+### Calc Tutorial
+
+- 01 [Tabellen erstellen](https://saskiaotto.github.io/uham-bio-data-science-1/calc-01.html#/title-slide)
+- 02 [Rechnen in Calc](https://saskiaotto.github.io/uham-bio-data-science-1/calc-02.html#/title-slide)
+- 03 [Diagramme erstellen](https://saskiaotto.github.io/uham-bio-data-science-1/calc-03.html#/title-slide)
+- 04 [Export](https://saskiaotto.github.io/uham-bio-data-science-1/calc-04.html#/title-slide)
 
 
 ## Lizenz
