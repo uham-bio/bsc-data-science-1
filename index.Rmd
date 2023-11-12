@@ -19,10 +19,9 @@ Begleitet wird das Modul mit anwendungsbezogenen Übungen und einer abschließen
 Modulverantwortliche: **Dr. Saskia Otto**
 
 
-## Vorlesungsfolien
+## Vorlesungsfolien WiSe 2023-2024
 
 Diese Github Repository enthält die Links zu den kursspezifischen und interaktiven HTML-Vorlesungsfolien (alle auf Deutsch), die mit R Markdown und Quarto unter Verwendung von Vorlagen aus dem R Paket [UHHformats](https://github.com/uham-bio/UHHformats) erstellt wurden: 
-
 
 - 00 [Kurseinführung](https://saskiaotto.github.io/uham-bio-data-science-1/00-intro-program.html#/title-slide)
 - 01 [Einführung in Daten und Datenmanagement](https://saskiaotto.github.io/uham-bio-data-science-1/01-data-management.html#/title-slide)
@@ -35,9 +34,13 @@ Diese Github Repository enthält die Links zu den kursspezifischen und interakti
 - 08 [Datenaufbereitung mit tidyverse: Transformation und Anreicherung](https://saskiaotto.github.io/uham-bio-data-science-1/08-data-wrangling2-transformations.html#/title-slide)
 - 09 [Datenvisualisierung mit base R und ggplot2](https://saskiaotto.github.io/uham-bio-data-science-1/09-intro-vis-in-r.html#/title-slide)
 - 10 [Maßgeschneiderte ggplot2 Diagramme](https://saskiaotto.github.io/uham-bio-data-science-1/10-modifying-ggplots.html#/title-slide)
+
+*-WEIHNACHTSFERIEN-*
+
 - 11 [Grundlagen der Visualisierung](https://saskiaotto.github.io/uham-bio-data-science-1/11-principles-visualization.html#/title-slide)
 - 12 [ggplot2 Erweiterungen: Diagramme kombinieren, Kartenerstellung und interaktive Grafiken](https://saskiaotto.github.io/uham-bio-data-science-1/12-ggplot2-extensions-maps-and-interactive-plots.html#/title-slide)
 - 13 [Handhabung spezieller Datentypen](https://saskiaotto.github.io/uham-bio-data-science-1/13-handling-special-data-types.html#/title-slide)
+- 14 [Fallbeispiele]()
 
 
 ### Calc Tutorial
