@@ -31,7 +31,14 @@ Diese Github Repository enthält die Links zu den kursspezifischen und interakti
 - 04 [Einführung in die (R) Programmierung](https://saskiaotto.github.io/uham-bio-data-science-1/04-intro-programming-and-r.html#/title-slide)
 - 05 [Grundlagen in R: Variablen und Vektoren](https://saskiaotto.github.io/uham-bio-data-science-1/05-r-basics-variables-vectors.html#/title-slide)
 - 06 [Grundlagen in R: Komplexere Objekte](https://saskiaotto.github.io/uham-bio-data-science-1/06-r-basics-complex-objects.html#/title-slide)
-- 07 ....
+- 07 [Datenaufbereitung mit tidyverse: Import/Export und Bereinigung](https://saskiaotto.github.io/uham-bio-data-science-1/07-data-wrangling1-import-cleaning.html#/title-slide)
+- 08 [Datenaufbereitung mit tidyverse: Transformation und Anreicherung](https://saskiaotto.github.io/uham-bio-data-science-1/08-data-wrangling2-transformations.html#/title-slide)
+- 09 [Datenvisualisierung mit base R und ggplot2](https://saskiaotto.github.io/uham-bio-data-science-1/09-intro-vis-in-r.html#/title-slide)
+- 10 [Maßgeschneiderte ggplot2 Diagramme](https://saskiaotto.github.io/uham-bio-data-science-1/10-modifying-ggplots.html#/title-slide)
+- 11 [Grundlagen der Visualisierung](https://saskiaotto.github.io/uham-bio-data-science-1/11-principles-visualization.html#/title-slide)
+- 12 [ggplot2 Erweiterungen: Diagramme kombinieren, Kartenerstellung und interaktive Grafiken](https://saskiaotto.github.io/uham-bio-data-science-1/12-ggplot2-extensions-maps-and-interactive-plots.html#/title-slide)
+- 13 [Handhabung spezieller Datentypen](https://saskiaotto.github.io/uham-bio-data-science-1/13-handling-special-data-types.html#/title-slide)
+
 
 ### Calc Tutorial
 
