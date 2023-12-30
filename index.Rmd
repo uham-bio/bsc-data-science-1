@@ -37,10 +37,10 @@ Diese Github Repository enthält die Links zu den kursspezifischen und interakti
 
 *-WEIHNACHTSFERIEN-*
 
-- 11 [ggplot2 Erweiterungen: Diagramme kombinieren, Kartenerstellung und interaktive Grafiken](https://saskiaotto.github.io/uham-bio-data-science-1/11-ggplot2-extensions-maps-and-interactive-plots.html#/title-slide)
-- 12 [Grundlagen der Visualisierung](https://saskiaotto.github.io/uham-bio-data-science-1/12-principles-visualization.html#/title-slide)
+- 11 [Grundlagen der Visualisierung](https://saskiaotto.github.io/uham-bio-data-science-1/11-principles-visualization.html#/title-slide)
+- 12 [ggplot2 Erweiterungen: Diagramme kombinieren, Kartenerstellung und interaktive Grafiken](https://saskiaotto.github.io/uham-bio-data-science-1/12-ggplot2-extensions-maps-and-interactive-plots.html#/title-slide)
 - 13 [Handhabung spezieller Datentypen](https://saskiaotto.github.io/uham-bio-data-science-1/13-handling-special-data-types.html#/title-slide)
-- 14 [Fallbeispiele]()
+- 14 [Fortgeschrittene Programmierung in R](https://saskiaotto.github.io/uham-bio-data-science-1/14-advanced-programming.html#/title-slide)
 
 
 ### Calc Tutorial
