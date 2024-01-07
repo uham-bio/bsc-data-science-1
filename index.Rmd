@@ -43,13 +43,14 @@ Diese Github Repository enthält die Links zu den kursspezifischen und interakti
 - 14 [Fortgeschrittene Programmierung in R](https://saskiaotto.github.io/uham-bio-data-science-1/14-advanced-programming.html#/title-slide)
 
 
-### Calc Tutorial
+### Folien zu Libreoffice Calc
 
-- 01 [Overview](https://saskiaotto.github.io/uham-bio-data-science-1/calc-01.html#/title-slide)
-- 02 [Tabellen erstellen](https://saskiaotto.github.io/uham-bio-data-science-1/calc-01.html#/title-slide)
-- 03 [Rechnen in Calc](https://saskiaotto.github.io/uham-bio-data-science-1/calc-02.html#/title-slide)
-- 04 [Diagramme erstellen](https://saskiaotto.github.io/uham-bio-data-science-1/calc-03.html#/title-slide)
-- 05 [Export](https://saskiaotto.github.io/uham-bio-data-science-1/calc-04.html#/title-slide)
+- 01 [Overview](https://saskiaotto.github.io/uham-bio-data-science-1/calc.html#/title-slide)
+- 02 [Tabellen erstellen](https://saskiaotto.github.io/uham-bio-data-science-1/calc.html#/tabellen-anlegen-in-calc)
+- 03 [Rechnen in Calc](https://saskiaotto.github.io/uham-bio-data-science-1/calc.html#/rechnen-in-calc)
+- 04 [Diagramme erstellen](https://saskiaotto.github.io/uham-bio-data-science-1/calc.html#/diagramme-in-calc-erstellen)
+- 05 [Export](https://saskiaotto.github.io/uham-bio-data-science-1/calc.html#/export-als-cvs-datei-für-weitere-verwendungen)
+
 
 
 ## Lizenz
