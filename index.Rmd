@@ -17,7 +17,7 @@ Dies ist das erste von vier Modulen des neu in den Bachelorstudiengängen des Fa
 
 Das Modul wird durch praxisnahe Übungen begleitet und schließt mit einer Fallstudie zur deskriptiven Datenauswertung und Visualisierung ab, basierend auf ausgewählten Beispieldatensätzen aus verschiedenen Bereichen der Biologie.
 
-Modulverantwortliche: **Dr. Saskia Otto** & **Dr. Monika Eberhard**
+Modulverantwortliche: **Dr. Saskia Otto**, **Dr. Monika Eberhard**
 
 
 ## Vorlesungsfolien WiSe 2025/2026
