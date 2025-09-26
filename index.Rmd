@@ -13,16 +13,16 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Modulbeschreibung <img src="images/uhh_logo.png" align="right" width="150" style="margin-left: 20px"/>
 
-Dies ist das erste von vier Modulen des neu in den Bachelorstudiengängen des Fachbereichs **Biologie** an der **Universität Hamburg** eingeführten Data Science-Programms. *Data Science 1* bietet eine Einführung in die verschiedenen Komponenten des ‘Data Science’. Nach einer Einführung in das Tabellenkalkulationsprogramm *LibreOffice Calc* (bzw. *Microsoft Excel*) folgt eine Einführung in die Programmiersprache R und die integrierte Entwicklungsumgebung RStudio (Posit). In dieser Umgebung werden Methoden und Werkzeuge zur Dateneingabe und -organisation, zum Import, zur Manipulation, Visualisierung und Beschreibung von Daten vermittelt und angewendet. Verschiedene Dateitypen sowie die numerische Repräsentation von Daten werden dabei vertieft behandelt.
+Dies ist das erste von vier Modulen des neu in den Bachelorstudiengängen des Fachbereichs **Biologie** an der **Universität Hamburg** eingeführten Data-Science-Programms. Data Science 1* bietet eine Einführung in die verschiedenen Data Science Komponenten. Nach einer Einführung in das Tabellenkalkulationsprogramm *LibreOffice Calc* (bzw. *Microsoft Excel*) folgt eine Einführung in die Programmiersprache R und die integrierte Entwicklungsumgebung RStudio (Posit). In dieser Umgebung werden Methoden und Werkzeuge zur Dateneingabe und -organisation, zum Import, zur Manipulation, Visualisierung und Beschreibung von Daten vermittelt und angewendet. Verschiedene Dateitypen sowie die numerische Repräsentation von Daten werden dabei vertieft behandelt.
 
 Das Modul wird durch praxisnahe Übungen begleitet und schließt mit einer Fallstudie zur deskriptiven Datenauswertung und Visualisierung ab, basierend auf ausgewählten Beispieldatensätzen aus verschiedenen Bereichen der Biologie.
 
-Modulverantwortliche: **Dr. Saskia Otto**
+Modulverantwortliche: **Dr. Saskia Otto** & **Dr. Monika Eberhard**
 
 
-## Vorlesungsfolien WiSe 2024/2025
+## Vorlesungsfolien WiSe 2025/2026
 
-Diese Github Repository enthält die Links zu den kursspezifischen und interaktiven HTML-Vorlesungsfolien (alle auf Deutsch), die mit R Markdown und Quarto unter Verwendung von Vorlagen aus dem R Paket [UHHformats](https://github.com/uham-bio/UHHformats) erstellt wurden: 
+Diese Github Repository enthält die Links zu den kursspezifischen und interaktiven HTML-Vorlesungsfolien (alle auf Deutsch), die mit Quarto unter Verwendung von Vorlagen aus dem R Paket [UHHformats](https://github.com/uham-bio/UHHformats) erstellt wurden: 
 
 - 00 [Kurseinführung](https://saskiaotto.github.io/uham-bio-data-science-1/00-intro-program.html#/title-slide)
 - 01 [Einführung in Daten und Datenmanagement](https://saskiaotto.github.io/uham-bio-data-science-1/01-data-management.html#/title-slide)
@@ -41,7 +41,7 @@ Diese Github Repository enthält die Links zu den kursspezifischen und interakti
 - 11 [Grundlagen der Visualisierung](https://saskiaotto.github.io/uham-bio-data-science-1/11-principles-visualization.html#/title-slide)
 - 12 [ggplot2 Erweiterungen: Diagramme kombinieren, Kartenerstellung und interaktive Grafiken](https://saskiaotto.github.io/uham-bio-data-science-1/12-ggplot2-extensions-maps-and-interactive-plots.html#/title-slide)
 - 13 [Handhabung spezieller Datentypen](https://saskiaotto.github.io/uham-bio-data-science-1/13-handling-special-data-types.html#/title-slide)
-- 14 [Fortgeschrittene Programmierung in R](https://saskiaotto.github.io/uham-bio-data-science-1/14-advanced-programming.html#/title-slide)
+
 
 
 ### Folien zu Libreoffice Calc

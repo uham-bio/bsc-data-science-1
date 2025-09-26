@@ -3,23 +3,21 @@ Data Science 1 - Programming & Visualization in R
 
 ## Module description <img src="images/uhh_logo.png" align="right" width="150" style="margin-left: 20px"/>
 
-This is the first out of four modules in the data science program newly
-introduced into the Bachelor programs of the **Biology Department,
-University of Hamburg**. *Data Science 1* provides first an overview of
-the topic and program and introduces students into the open-source
-spreadsheet program *Calc*/*Excel*. The course focuses then primarily on
-data wrangling and visualization using the programming language **R**
-and is accompanied with various *swirl*-courses and a selection of case
-studies.
+This module is the first out of four modules in the data science program
+newly introduced into the Bachelor Programs of the **Biology Department,
+University of Hamburg**. *Data Science 1* begins with an overview of the
+program and an introduction to the open-source spreadsheet software
+Calc. The main focus, however, is on data wrangling and visualization
+using the programming language **R**, supported by a series of
+*swirl*-courses and selected case studies.
 
 Course creator and instructor: **Dr. Saskia Otto**
 
 ## This repository
 
-This Github repository holds just the links to the course-specific
-interactive HTML lecture slides (all in German) produced with R Markdown
-and Quarto using templates from the
-[UHHformats](https://github.com/uham-bio/UHHformats) package.
+This GitHub repository contains links to the course-specific interactive
+HTML lecture slides (all in German), created with Quarto using templates
+from the [UHHformats](https://github.com/uham-bio/UHHformats) package.
 
 The actual URL for the lecture slides is:
 <https://saskiaotto.github.io/uham-bio-data-science-1/>
