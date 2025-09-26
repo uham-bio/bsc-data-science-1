@@ -12,7 +12,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This module is the first out of four modules in the data science program newly introduced into the Bachelor Programs of the **Biology Department, University of Hamburg**. *Data Science 1* begins with an overview of the program and an introduction to the open-source spreadsheet software Calc. The main focus, however, is on data wrangling and visualization using the programming language **R**, supported by a series of *swirl*-courses and selected case studies.
 
-Course creator and instructor: **Dr. Saskia Otto**
+Course creator: **Dr. Saskia Otto**
+
+Course instructor: **Dr. Saskia Otto**, **Dr. Monika Eberhard**
 
 ## This repository
 

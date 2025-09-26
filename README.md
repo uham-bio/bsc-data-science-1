@@ -11,7 +11,9 @@ Calc. The main focus, however, is on data wrangling and visualization
 using the programming language **R**, supported by a series of
 *swirl*-courses and selected case studies.
 
-Course creator and instructor: **Dr. Saskia Otto**
+Course creator: **Dr. Saskia Otto**
+
+Course instructor: **Dr. Saskia Otto**, **Dr. Monika Eberhard**
 
 ## This repository
 
