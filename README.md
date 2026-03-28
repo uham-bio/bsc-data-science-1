@@ -1,7 +1,7 @@
 Data Science 1 - Programming & Visualization in R
 ================
 
-## Module description <img src="images/uhh_logo.png" align="right" width="150" style="margin-left: 20px"/>
+## Module description <img src="images/dsb_logo.png" align="right" width="150" style="margin-left: 20px"/>
 
 This module is the first out of four modules in the data science program
 newly introduced into the Bachelor Programs of the **Biology Department,
@@ -17,9 +17,9 @@ Course instructor: **Dr. Saskia Otto**, **Dr. Monika Eberhard**
 
 ## This repository
 
-This GitHub repository contains links to the course-specific interactive
-HTML lecture slides (all in German), created with Quarto using templates
-from the [UHHformats](https://github.com/uham-bio/UHHformats) package.
+This Github repository holds just the links to the course-specific
+interactive HTML lecture slides (all in German) produced by Saskia Otto
+with [Quarto](https://quarto.org/).
 
 The actual URL for the lecture slides is:
 <https://saskiaotto.github.io/uham-bio-data-science-1/>

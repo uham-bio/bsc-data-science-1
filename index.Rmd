@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 **Programmieren & Visualisieren  (BIO-03.61-006 und BMARSYS-17.61-843)**
 
 
-## Modulbeschreibung <img src="images/uhh_logo.png" align="right" width="150" style="margin-left: 20px"/>
+## Modulbeschreibung <img src="images/dsb_logo.png" align="right" width="150" style="margin-left: 20px"/>
 
 Dies ist das erste von vier Modulen des neu in den Bachelorstudiengängen des Fachbereichs **Biologie** an der **Universität Hamburg** eingeführten Data-Science-Programms. Data Science 1* bietet eine Einführung in die verschiedenen Data Science Komponenten. Nach einer Einführung in das Tabellenkalkulationsprogramm *LibreOffice Calc* (bzw. *Microsoft Excel*) folgt eine Einführung in die Programmiersprache R und die integrierte Entwicklungsumgebung RStudio (Posit). In dieser Umgebung werden Methoden und Werkzeuge zur Dateneingabe und -organisation, zum Import, zur Manipulation, Visualisierung und Beschreibung von Daten vermittelt und angewendet. Verschiedene Dateitypen sowie die numerische Repräsentation von Daten werden dabei vertieft behandelt.
 
@@ -22,7 +22,7 @@ Modulverantwortliche: **Dr. Saskia Otto**, **Dr. Monika Eberhard**
 
 ## Vorlesungsfolien WiSe 2025/2026
 
-Diese Github Repository enthält die Links zu den kursspezifischen und interaktiven HTML-Vorlesungsfolien (alle auf Deutsch), die mit Quarto unter Verwendung von Vorlagen aus dem R Paket [UHHformats](https://github.com/uham-bio/UHHformats) erstellt wurden: 
+Diese Github Repository enthält die Links zu den kursspezifischen und interaktiven HTML-Vorlesungsfolien (alle auf Deutsch), die von Saskia Otto mit [Quarto](https://quarto.org/) erstellt wurden: 
 
 - 00 [Kurseinführung](https://saskiaotto.github.io/uham-bio-data-science-1/00-intro-program.html#/title-slide)
 - 01 [Einführung in Daten und Datenmanagement](https://saskiaotto.github.io/uham-bio-data-science-1/01-data-management.html#/title-slide)
